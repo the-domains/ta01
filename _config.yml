@@ -1,0 +1,28 @@
+name: ta01
+favicon: null
+layout_spectrum: 0.9976590620353818
+typography_spectrum: 0.3058136492036283
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.18699726229533553
+  lightness: 0.07158430851995945
+  saturation: 0.014834597706794739
+  rhythmicContrast: 0.036746483063325286
+purpose: []
